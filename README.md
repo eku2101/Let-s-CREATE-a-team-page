@@ -4,6 +4,8 @@ A shared HTML, CSS, and JavaScript page for the team activity. Erin's card inclu
 
 ## View the page
 
+**Live website: [Meet our team](https://eku2101.github.io/Let-s-CREATE-a-team-page/)**
+
 Open `index.html` in a browser. No installation or build step is needed.
 
 ## Add your card
